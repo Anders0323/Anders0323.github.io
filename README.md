@@ -1,3 +1,3 @@
-# Anders0323 Portfolio
+# 林一川｜新媒体作品集
 
-新媒体运营 / 内容创作者个人作品集。网页由 GitHub Pages 托管，作品内容与媒体由 Tencent CloudBase 提供。
+个人短视频、摄影、直播与 AIGC 作品网站。内容由腾讯 CloudBase 管理，前端通过 GitHub Pages 发布。

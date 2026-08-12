@@ -1,0 +1,4 @@
+{
+  "read": "doc.status == 'published' || get('database.roles.admin').roles[auth.uid] == 'owner'",
+  "write": "get('database.roles.admin').roles[auth.uid] == 'owner'"
+}
